@@ -52,5 +52,8 @@
 <br>
 </div>
 
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/amandaol7b_35545)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-oliveira-970410232/)
+[![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:amandaol7b@gmail.com)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8f07e3&height=120&section=footer"/>
