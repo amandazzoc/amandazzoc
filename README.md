@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b546fa&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Amanda+Oliveira;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amandazzoc&bg_color=0d1117&color=b546fa&line=b546fa&point=c79ae3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amandazzoc&bg_color=0d1117&color=b546fa&line=b546fa&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amandazzoc&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
