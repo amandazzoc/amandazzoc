@@ -10,7 +10,7 @@
 - Frameworks: React, Next.js
 - Linguagens: JavaScript, TypeScript  
 - Estilização: CSS, HTML, Tailwind  
-- Cloud & Infra: AWS (Certificada)
+- Cloud & Infra: AWS 
 
 📖 Em aprendizado:  
 - Node.js, Express, MongoDB, Docker  
@@ -26,8 +26,6 @@
 - Leitura 📖  
 - Crochê 🧶  
 - Artesanato ✂️  
-- Pintura 🎨  
-- Criar projetos malucos 💡  
 
 🔗 Redes sociais:  
 - Instagram: @amandazzoc
