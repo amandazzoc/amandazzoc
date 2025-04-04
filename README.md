@@ -4,13 +4,12 @@
 
 ```csharp
 📧 E-mail: amandaol7b@gmail.com  
-📍 Localização: Sete Barras, SP  
 
 🚀 Tecnologias & Ferramentas:  
 - Frameworks: React, Next.js
 - Linguagens: JavaScript, TypeScript  
 - Estilização: CSS, HTML, Tailwind  
-- Cloud & Infra: AWS 
+- Cloud & Infra: AWS (CLF-C02)
 
 📖 Em aprendizado:  
 - Node.js, Express, MongoDB, Docker  
